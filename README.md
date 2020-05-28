@@ -9,12 +9,12 @@
 
 ## git and Github
 
-- [] init
-- [ ] add
-- [ ] commit
-- [ ] remote
-- [ ] Github Intro
-- [ ] push
+- [x] init
+- [x] add
+- [x] commit
+- [x] remote
+- [x] Github Intro
+- [] push
 - [ ] checkout <b>
 - [ ] branch
 - [ ] merge
