@@ -15,7 +15,7 @@
 - [x] remote
 - [x] Github Intro
 - [x] push
-- [ ] checkout <b>
+- [x] checkout <-b>
 - [x] branch
 - [ ] merge
 - [ ] merge conflict
