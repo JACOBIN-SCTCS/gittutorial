@@ -14,15 +14,16 @@
 - [x] commit
 - [x] remote
 - [x] Github Intro
-- [] push
+- [x] push
 - [ ] checkout <b>
-- [ ] branch
+- [x] branch
 - [ ] merge
 - [ ] merge conflict
 - [ ] log
 - [ ] reset --hard <commit>
 - [ ] pull
 - [ ] clone
+- [ ] .gitignore
 
 Contributing to Open Source
 - [ ] Raise Issue
