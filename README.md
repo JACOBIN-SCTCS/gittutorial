@@ -15,9 +15,9 @@
 - [x] commit
 - [x] remote
 - [x] Github Intro
-- [] push
-- [ ] checkout <b>
-- [ ] branch
+- [x] push
+- [x] checkout <-b>
+- [x] branch
 - [ ] merge
 - [ ] merge conflict
 - [ ] log
@@ -25,6 +25,7 @@
 - [ ] pull
 - [ ] clone
 - [ ] reset --head
+- [ ] .gitignore
 
 Contributing to Open Source
 
