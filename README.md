@@ -1,6 +1,7 @@
 # Introduction to Git
 
 ## Introduction
+
 - [x] What is a version control
 - [x] git
 - [x] Install git
@@ -23,9 +24,9 @@
 - [ ] reset --hard <commit>
 - [ ] pull
 - [ ] clone
-- [ ] .gitignore
 
 Contributing to Open Source
+
 - [ ] Raise Issue
 - [ ] Add PR
 - [ ] Merge PR
