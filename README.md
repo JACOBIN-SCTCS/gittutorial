@@ -17,15 +17,15 @@
 - [x] push
 - [x] checkout <-b>
 - [x] branch
-- [ ] merge
-- [ ] merge conflict
-- [ ] log
-- [ ] reset --hard <commit>
-- [ ] pull
-- [ ] clone
-- [ ] .gitignore
+- [x] merge
+- [x] merge conflict
+- [x] log
+- [x] reset --hard <commit>
+- [x] pull
+- [x] clone
+- [] .gitignore
 
 Contributing to Open Source
-- [ ] Raise Issue
-- [ ] Add PR
-- [ ] Merge PR
+- [x] Raise Issue
+- [x] Add PR
+- [x] Merge PR
